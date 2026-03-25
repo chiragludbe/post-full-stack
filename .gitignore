@@ -3,10 +3,6 @@
 /backend/.env.local
 /backend/.env.development
 
-/frontend/my-app/node_modules
-/frontend/my-app/.env
-/frontend/my-app/.env.local
-/frontend/my-app/.env.development
 
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
